@@ -5,3 +5,5 @@
 ## Технологии
 React, HTML6, CSS3
 
+[Ссылка](https://monzikovmaxim.github.io/Weather-App/index.html)
+
